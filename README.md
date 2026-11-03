@@ -1,1 +1,1 @@
-# DevOps Lab — Git + Docker
+# DevOps Lab - Git + Docker
